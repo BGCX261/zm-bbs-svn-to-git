@@ -1,0 +1,5 @@
+#summary Setup instructions
+#labels Phase-Deploy,Featured
+
+= Introduction =
+To setup zm-bbs, add ?A=Setup the the URI of your forum.
